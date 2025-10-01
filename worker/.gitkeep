@@ -1,0 +1,8 @@
+# Worker
+
+Background job processor.
+
+## Structure
+- `src/` - Source code
+- `package.json` - Dependencies
+- `tsconfig.json` - TypeScript configuration
