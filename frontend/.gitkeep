@@ -1,0 +1,9 @@
+# Frontend
+
+React + TypeScript frontend application.
+
+## Structure
+- `src/` - Source code
+- `public/` - Static assets
+- `package.json` - Dependencies
+- `vite.config.ts` - Vite configuration
